@@ -1,0 +1,19 @@
+body {
+    background-color: #f2f4f7;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #2a4d8f;
+    font-family: 'Trebuchet MS', sans-serif;
+    margin-bottom: 20px;
+}
+
+p {
+    color: #333333;
+    font-family: Georgia, serif;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
